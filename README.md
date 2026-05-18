@@ -9,7 +9,7 @@
 
 <br/>
 
-![JJ GH Top Langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=<KauaMMedeiros>&bgcolor=000&titlecolor=fff)(https://github.com/KauaMMedeiros/github-readme-stats)
+![JJ GH Top Langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=KauaMMedeiros&bgcolor=000&titlecolor=fff)(https://github.com/KauaMMedeiros/github-readme-stats)
 
 ## Programming Languages.
 
