@@ -10,7 +10,7 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaMMedeiros&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMMedeiros&show_icons=true&theme=dracula)](https://github.com/KauaMMedeiros/github-readme-stats)
+![JJ GH Top Langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=<user>&bgcolor=000&titlecolor=fff_icons=true&theme=dracula)(https://github.com/KauaMMedeiros/github-readme-stats)
 
 ## Programming Languages.
 
